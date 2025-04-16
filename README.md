@@ -1,6 +1,6 @@
 # firebase_cloud_functions_iot
 
-tutorial Youtube Link: 
+tutorial Link: https://technion.zoom.us/clips/share/HbrKCtcLQkmqXMn7olNqUQ
 
 
 Used commands and instructions: 

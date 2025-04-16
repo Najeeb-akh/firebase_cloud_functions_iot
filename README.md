@@ -1,4 +1,4 @@
-# firebase_cloud_functions_iot
+# Firebase Cloud Functions
 
 tutorial Link: https://technion.zoom.us/clips/share/HbrKCtcLQkmqXMn7olNqUQ
 
